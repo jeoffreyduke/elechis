@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "IndieFlower";
+  src: url("/fonts/IndieFlower-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Akkurat";
+  src: url("/fonts/Akkurat-Font/Akkurat.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Misto";
+  src: url("/fonts/Misto-Font/Misto.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Chromate";
+  src: url("/fonts/Chromate/Chromate-Regular.otf") format("opentype");
+}
